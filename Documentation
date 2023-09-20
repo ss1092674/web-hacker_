@@ -1,0 +1,5 @@
+Step 1 - Install the hardhat in to your system
+Step 2 - run Hardhat at your system
+Step 3 - Run the local network on hardhat( npx hardhat run --netwrok scripts/deploy.js)
+Step 4 - create the react app ( npm install create-react-app)
+Step 5 - create the react app name as client folder(npx create-react-app client)
